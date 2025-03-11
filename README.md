@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lajos Polya, a passionate software developer dedicated to building and exploring innovative solutions across various domains.
+I'm a passionate software developer dedicated to building and exploring innovative solutions across various domains.
 
 <!--
 **LajosPolya/LajosPolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
