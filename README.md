@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an app to connect politicians with the people they represent by allowing the population to vote on important issues with the goal of influencing their political representative to allow for a more proportionate voter representation. I've completed the API and will soon start on the UI.
 - Checkout my many other projects such as my:
--   ☁️ [AWS CDK Templates](https://github.com/LajosPolya/aws-cdk-templates): Unleash the power of AWS with my comprehensive TypeScript templates for the AWS Cloud Development Kit (CDK).
--   🎧 [Spotify API Wrapper](https://github.com/LajosPolya/Spotify-API-Wrapper): My intuitive wrapper over the Spotify Developer API makes integrating Spotify into Java applications a breeze. Perfect for creating personalized playlists.
+  - ☁️ [AWS CDK Templates](https://github.com/LajosPolya/aws-cdk-templates): Unleash the power of AWS with my comprehensive TypeScript templates for the AWS Cloud Development Kit (CDK).
+  - 🎧 [Spotify API Wrapper](https://github.com/LajosPolya/Spotify-API-Wrapper): My intuitive wrapper over the Spotify Developer API makes integrating Spotify into Java applications a breeze. Perfect for creating personalized playlists.
