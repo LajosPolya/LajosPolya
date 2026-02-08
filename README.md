@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 [Popular Vote](https://github.com/LajosPolya/PopularVote) I’m developing an app to connect politicians with their constituents, enabling the population to vote on key issues and influence their representatives for more proportional voter representation. I've completed the API and will soon start on the UI.
 
-Checkout my many other projects such as my:
+Check out my many other projects:
 
 ☁️ [AWS CDK Templates](https://github.com/LajosPolya/aws-cdk-templates): Unleash the power of AWS with my comprehensive TypeScript templates for the AWS Cloud Development Kit (CDK).
 
