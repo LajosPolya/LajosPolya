@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m developing an app to connect politicians with their constituents, enabling the population to vote on key issues and influence their representatives for more proportional voter representation. I've completed the API and will soon start on the UI.
+🔭 [Popular Vote](https://github.com/LajosPolya/PopularVote) I’m developing an app to connect politicians with their constituents, enabling the population to vote on key issues and influence their representatives for more proportional voter representation. I've completed the API and will soon start on the UI.
 
 Checkout my many other projects such as my:
 
